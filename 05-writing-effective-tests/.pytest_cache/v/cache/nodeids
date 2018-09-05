@@ -1,0 +1,4 @@
+[
+  "test_fibonacci3.py::test_random_fib[fib]",
+  "test_fibonacci3.py::test_random_fib[fib_numpy]"
+]
